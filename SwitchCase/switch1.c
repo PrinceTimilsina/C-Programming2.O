@@ -1,4 +1,4 @@
-/* WAP to input single no.(1-4) where 1= Area of circle 2=Perimeter of Circle 3= Area of Rectangle 4=Exit Program */
+/* #Menu Based Program--1 WAP to input single no.(1-4) where 1= Area of circle 2=Perimeter of Circle 3= Area of Rectangle 4=Exit Program */
 #include <stdio.h>
 int main() {
  int n,r,a,p,l,b,ar;
