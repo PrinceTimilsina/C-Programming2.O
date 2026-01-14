@@ -1,7 +1,7 @@
 /* WAP to input two different numbers and operator then find the result based on the user choice operator where (+ - * /) */
 #include <stdio.h>
 void line() {
-    printf("-------------------------------------------------\n");
+    printf("-----------------------------------------------\n");
 }
 int main() {
    int n1,n2,a,sum,diff,prod,divs;
